@@ -457,7 +457,7 @@ async def badwords(message: discord.Message):
     await message.author.send(badWords2)
 '''
 
-bot.run('MTA1MjY0NjQ4ODQ0Mzk4NTk0MA.GSyEvh.y4s-vMPuKpvztNxezaUGesAFrQPhRsQiOIWqsM')
+bot.run('token')
 
 
 # https://discord.gg/DXADAQySUA
